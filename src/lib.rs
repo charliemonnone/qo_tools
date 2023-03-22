@@ -1,0 +1,2 @@
+mod qoa;
+mod qoi;
