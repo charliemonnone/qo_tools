@@ -3,7 +3,7 @@ name = "qo_tools"
 version = "0.1.0"
 edition = "2021"
 description = "utilities for working with \"Quite Ok _\" formats from Phobos Labs."
-license = "LICENSE"
+license-file = "LICENSE"
 repository = "https://github.com/charliemonnone/qo_tools"
 
 [dependencies]
